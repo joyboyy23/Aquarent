@@ -1,0 +1,1 @@
+# laundry_mobile_view
