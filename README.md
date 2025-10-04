@@ -1,2 +1,2 @@
-# laundry_mobile_view
+# Aquarent
 https://joyboyy23.github.io/Aquarent/
