@@ -1,2 +1,2 @@
 # Aquarent
-https://joyboyy23.github.io/Aquarent/
+https://aquarent.netlify.app/
